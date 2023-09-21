@@ -7,4 +7,5 @@ languages and frame works used:
             Project Year: 2023
             Developer: Ojo Daniel
             Last update: 21st sept 2023
+            Location: Ikeja Lagos
 ############
